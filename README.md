@@ -33,11 +33,3 @@ paragraphs, 9-phase curriculum, 5 research tracks.
 LinkedIn: [link] · Email: phoenixpearl544@gmail.com
 
 ---
-
-## ⚠️ Sanitization Reminder (remove this section before going public)
-
-This repo is **public**. Before adding any content:
-- No real IP addresses, hostnames, or internal URLs
-- No SSH keys, passwords, tokens, or AWS account IDs
-- Runbooks must be sanitized versions of the real ones in `sioe-x-infrastructure`
-- Architecture docs describe *what* was built, not live configuration values
