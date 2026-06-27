@@ -30,6 +30,8 @@ paragraphs, 9-phase curriculum, 5 research tracks.
 
 ## Contact
 
-LinkedIn: [link] · Email: phoenixpearl544@gmail.com
+LinkedIn: [https://www.linkedin.com/in/wavamuno-shafiki-8a5b8b411?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+
+Email: phoenixpearl544@gmail.com
 
 ---
