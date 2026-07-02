@@ -316,5 +316,4 @@ A new engineer taking over this server should confirm every item below before co
 
 ---
 
-*This document satisfies the M-01 Session 9 deliverable per SP-1 and is assessed under Vol 6's Documentation Quality rubric category. A sanitized copy — public IP, keys, and UFW source restrictions removed — belongs in `Sovereign-portfolio`, not this version.*
-
+*This document satisfies the M-01 Session 9 deliverable per SP-1 and is assessed under Vol 6's Documentation Quality rubric category. A sanitized copy — public IP, keys, and UFW source restrictions removed. A complete version belongs in my  private git - repo, `SIOE-X-Engineering-Log` not this one.
